@@ -11,7 +11,8 @@
   "profile": {
     "name": "typicode"
   },
-  "person": {
+  "person": [
+    {
     "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
     "sex": "male",
     "date_of_birth": "2020-11-24",
@@ -20,5 +21,16 @@
     "qr_scanned": "2020-11-24T15:01:47.695Z",
     "name": "string",
     "guardian": "string"
+  },
+    {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "sex": "male",
+    "date_of_birth": "2020-11-24",
+    "age_estimated": true,
+    "qr_code": "string1",
+    "qr_scanned": "2020-11-24T15:01:47.695Z",
+    "name": "string",
+    "guardian": "string"
   }
+ ]
 }
