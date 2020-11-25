@@ -32,5 +32,36 @@
     "name": "string",
     "guardian": "string"
   }
- ]
+ ],
+  "measurments": [
+    {
+   "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "person": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "height": 33,
+  "weigth": 44,
+  "muac": 333,
+  "head_cir": 0,
+  "oedema": true,
+  "location": {
+    "lat": 0,
+    "lng": 0
+  },
+  "measured": "2020-11-25T16:48:24.473Z"
+},
+    {
+  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+  "person": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "height": 24,
+  "weigth": 23,
+  "muac": 0,
+  "head_cir": 0,
+  "oedema": true,
+  "location": {
+    "lat": 0,
+    "lng": 0
+  },
+  "measured": "2020-11-25T16:48:24.473Z"
+}
+    
+  ]
 }
